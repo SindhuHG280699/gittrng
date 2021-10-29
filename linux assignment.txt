@@ -1,0 +1,24 @@
+41:
+1-mkdir test
+2- cat >employeelist
+    cat>skillset
+3-mkdir test2
+ -a] symbolic link -  ln -s skillset symbskillset
+    b ]hard link      -   ln  skillset hardskillset
+    c ]rm skillset
+ -Symbolic link - Type of file in linux that points to another file or folder in our computer.
+    Hard link - Exact replica of the actual file it is pointing to.
+4 -  chmod 764 employeelist
+5- chmod 764 employeelist
+      chmod 744 employeelist
+6-  chmod 746 employeelist
+7-   chmod 744 employeelist
+8-chgrp user3 employeelist
+9--chown user5 employeelist
+10.wc -w employeelist
+
+
+
+
+
+
